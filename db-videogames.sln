@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "db-videogames", "db-videogames.csproj", "{29F3D377-8575-464C-8E40-59B77EE7D62E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementi di soluzione", "Elementi di soluzione", "{A5775F64-9EFE-472B-AC70-DE69587E7AE8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\img\DB-videogames.jpg = ..\..\..\Desktop\img\DB-videogames.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29F3D377-8575-464C-8E40-59B77EE7D62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F3D377-8575-464C-8E40-59B77EE7D62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F3D377-8575-464C-8E40-59B77EE7D62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F3D377-8575-464C-8E40-59B77EE7D62E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A643AC09-67C3-4E53-88D8-1710A9EEA4CC}
+	EndGlobalSection
+EndGlobal
